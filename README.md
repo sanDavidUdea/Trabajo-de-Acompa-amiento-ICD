@@ -19,24 +19,30 @@ Este proyecto analiza una base de datos de medicamentos utilizando **Pandas, Num
    - 📈 **Gráficos de líneas** (Comparación de demanda y precio).
 ---
  Análisis Realizados en el Proyecto
+
 🔹 1. Filtrado de datos
 
 Se filtran medicamentos con precio inferior a 40 USD .
 Se identifican medicamentos cuyo precio es mayor al 20% del salario mínimo .
+
 🔹 2. Estadística Descriptiva
 
 Cálculo de medios, mediana, desviación estándar de los precios.
+
 🔹 3. Creación de Nuevas Columnas
 
 Conversión de precios de USD a COP .
 Cálculo del precio acumulado .
+
 🔹 4. Tablas Dinámicas (Tablas dinámicas)
 
 Análisis de la cantidad de medicamentos por laboratorio .
 Relación entre forma farmacéutica y laboratorio .
+
 🔹 5. Correlación de variables
 
 Relación entre precio y nivel de demanda .
+
 🔹 6. Visualización de datos
 
 📊 Gráficos de barras para analizar la cantidad de medicamentos por laboratorio.
