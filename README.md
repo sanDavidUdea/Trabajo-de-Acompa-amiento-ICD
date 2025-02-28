@@ -68,6 +68,7 @@ Grafico de dispersion 3D
 ![download](https://github.com/user-attachments/assets/4bc1bb84-e09b-4b3b-b9f1-a3a4ed3a8e57)
 
 Elaborado por
+
 Jair Rangel
 
 David Sarchi
