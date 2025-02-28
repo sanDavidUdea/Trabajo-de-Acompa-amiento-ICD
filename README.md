@@ -5,7 +5,6 @@ Este es el trabajo final de Introducción a la ciencia de los datos
 Este proyecto analiza una base de datos de medicamentos utilizando **Pandas, NumPy, Matplotlib y Seaborn**. Se realizan cálculos estadísticos, filtrado de datos, análisis de correlaciones y visualización con gráficos en 2D y 3D para darle un sentido logico a cada uno de los datos presentes en esta base. 🏥💊  
 
 ---
-
 ## 🚀 **Características del Proyecto**
 ✅ **Filtrado de datos** según criterios como precio y demanda.  
 ✅ **Cálculo de estadísticas descriptivas** (media, mediana, desviación estándar).  
@@ -18,6 +17,7 @@ Este proyecto analiza una base de datos de medicamentos utilizando **Pandas, Num
    - 🔥 **Mapas de calor** (Distribución de medicamentos por laboratorio y forma farmacéutica).  
    - 🌍 **Gráficos de dispersión 3D** (Relación entre precio, cantidad vendida y demanda).  
    - 📈 **Gráficos de líneas** (Comparación de demanda y precio).
+---
  Análisis Realizados en el Proyecto
 🔹 1. Filtrado de datos
 
@@ -46,12 +46,19 @@ Relación entre precio y nivel de demanda .
 
 Algunos ejemplos de los graficos realizados son:
 Mapa de Calor🔥
+
 ![image](https://github.com/user-attachments/assets/b59d9b53-cdea-46c9-9b8b-4abed3b6ef8d)
 
+
+
 Grafico de Barras
+
 ![image](https://github.com/user-attachments/assets/14819854-f985-466f-91b9-be5082bf3dd7)
 
+
+
 Grafico de dispersion 3D
+
 ![download](https://github.com/user-attachments/assets/4bc1bb84-e09b-4b3b-b9f1-a3a4ed3a8e57)
 
 Elaborado por
